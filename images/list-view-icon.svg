@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.59 14.14">
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.04 12.09">
   <defs>
     <style>
       .cls-1 {
+        stroke-width: 1.46px;
+      }
+
+      .cls-1, .cls-2 {
         fill: none;
-        stroke: #fff;
+        stroke: #231f20;
         stroke-linecap: round;
         stroke-linejoin: round;
-        stroke-width: .5px;
+      }
+
+      .cls-2 {
+        stroke-width: 1.3px;
+      }
+
+      .cls-3 {
+        fill: #231f20;
       }
     </style>
   </defs>
-  <g id="v8">
+  <g id="Tabs_nav" data-name="Tabs nav">
     <g>
-      <line class="cls-1" x1=".25" y1=".25" x2="15.34" y2=".25"/>
-      <line class="cls-1" x1=".25" y1="7.07" x2="15.34" y2="7.07"/>
-      <line class="cls-1" x1=".25" y1="13.89" x2="15.34" y2="13.89"/>
+      <g>
+        <line class="cls-1" x1="3.83" y1=".88" x2="14.31" y2=".88"/>
+        <line class="cls-2" x1="3.83" y1="6.1" x2="14.31" y2="6.1"/>
+        <line class="cls-1" x1="3.83" y1="11.21" x2="14.31" y2="11.21"/>
+      </g>
+      <g>
+        <circle class="cls-3" cx=".88" cy=".88" r=".88"/>
+        <circle class="cls-3" cx=".88" cy="6.1" r=".88"/>
+        <circle class="cls-3" cx=".88" cy="11.21" r=".88"/>
+      </g>
     </g>
   </g>
 </svg>
