@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.14 12.21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <g id="Tabs_nav" data-name="Tabs nav">
+    <g>
+      <path class="cls-1" d="M12.14.05l-5.04-.02-.05,12.17,5.04.02.05-12.17h0Z"/>
+      <path class="cls-1" d="M5.08.02L.05,0l-.03,7.13,5.04.02.03-7.13h0Z"/>
+      <path class="cls-1" d="M5.05,8.79l-5.04-.02v3.19s5.03.02,5.03.02v-3.19h.01Z"/>
+    </g>
+  </g>
+</svg>
