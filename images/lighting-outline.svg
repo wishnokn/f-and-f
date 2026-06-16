@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10.12 14.58">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <g id="Tabs_nav" data-name="Tabs nav">
+    <path class="cls-1" d="M.4,7.43h3.86l-2.72,5.98,7.97-8.03h-3.86L8.92.25H3.96L.4,7.43Z"/>
+  </g>
+</svg>
