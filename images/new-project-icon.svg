@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 59.1 59.47">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="Breadcrumb_nav" data-name="Breadcrumb nav">
+    <g>
+      <path class="cls-2" d="M48.12.5v48.03H.5V.5h47.62Z"/>
+      <polyline class="cls-1" points=".5 48.53 9.98 58.97 58.6 58.97 48.12 48.53"/>
+      <polyline class="cls-1" points="48.12 .5 58.6 9.57 58.6 58.97"/>
+    </g>
+  </g>
+</svg>
