@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.09 37.09">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linejoin: round;
+        stroke-width: 1.09px;
+      }
+
+      .cls-2 {
+        opacity: .9;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="Breadcrumb_nav" data-name="Breadcrumb nav" class="cls-2">
+      <path class="cls-1" d="M36.55.55v36H.55V.55h36Z"/>
+    </g>
+  </g>
+</svg>
